@@ -1,0 +1,14 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "title": null,
+      "genre": null
+    },
+    {
+      "id": 3,
+      "title": "Movie 3",
+      "genre": "Comedy"
+    }
+  ]
+}
